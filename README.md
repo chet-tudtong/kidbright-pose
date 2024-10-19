@@ -13,6 +13,14 @@ Now support platform:
 * R329
 * linux desktop
 
+---
+
+## Changes in this Fork
+
+- **Added** `Dockerfile`, `run_docker.sh`: For creat docker container for development for v831. But you have to download toolchain before run `./run_docker.sh`.
+
+---
+
 ## Build
 
 
